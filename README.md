@@ -8,7 +8,7 @@ Every time, I type `lms` to the address bar, chrome nicely prompts me `lms.unime
 
 ## Installation
 
-![Take Me LMS @ Google Chrome Store](https://chrome.google.com/webstore/detail/take-me-lms-unimelb/ddchmncpocfpfelhaodfnnjeokbobgci)
+[Take Me LMS @ Google Chrome Store](https://chrome.google.com/webstore/detail/take-me-lms-unimelb/ddchmncpocfpfelhaodfnnjeokbobgci)
 
 ## For Developer
 
