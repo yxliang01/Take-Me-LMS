@@ -1,7 +1,7 @@
 {
   "name": "Take-Me-LMS",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redirect me to LMS login page now! Nothing interesting here! For the University of Melbourne.",
   "scripts": {
     "start": "npm run dev:chrome",

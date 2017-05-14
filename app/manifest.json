@@ -1,8 +1,8 @@
 {
-  "name": "__MSG_appName__",
-  "short_name": "__MSG_appShortName__",
-  "description": "__MSG_appDescription__",
-  "version": "1.0.0",
+  "name": "Take MeL MS (Unimelb)",
+  "short_name": "Take Me LMS (Unimelb)",
+  "description": "Redirect me to LMS login page now! Nothing interesting here! For the University of Melbourne.",
+  "version": "1.0.1",
   "manifest_version": 2,
   "default_locale": "en",
   "icons": {
