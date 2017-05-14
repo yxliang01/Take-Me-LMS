@@ -1,8 +1,8 @@
 {
-  "name": "Take MeL MS (Unimelb)",
+  "name": "Take Me LMS (Unimelb)",
   "short_name": "Take Me LMS (Unimelb)",
   "description": "Redirect me to LMS login page now! Nothing interesting here! For the University of Melbourne.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 2,
   "default_locale": "en",
   "icons": {
