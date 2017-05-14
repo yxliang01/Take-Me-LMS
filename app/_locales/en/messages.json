@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Take Me LMS!",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "Take Me LMS",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Redirect me to LMS login page now! Nothing interesting here! For the University of Melbourne.",
+    "description": "The description of the application"
+  }
+}
