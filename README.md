@@ -47,7 +47,7 @@ There are two kinds of entryfiles that create bundles.
 
 Zips your `dist` directory and saves it in the `packages` directory.
 
-    $ gulp pack --vendor=firefox
+    $ gulp pack --vendor=chrome
 
 #### Version
 
