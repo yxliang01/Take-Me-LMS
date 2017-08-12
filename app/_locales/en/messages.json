@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
   },
   "appDescription": {
-    "message": "Redirect me to LMS login page now! Nothing interesting here! For the University of Melbourne.",
+    "message": "Redirect to LMS login page immediately! Nothing really interesting there!",
     "description": "The description of the application"
   }
 }

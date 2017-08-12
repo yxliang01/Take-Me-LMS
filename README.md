@@ -1,6 +1,9 @@
 # Take Me LMS!
 
-Redirect me to LMS login page now! Nothing interesting here! For the University of Melbourne.
+Redirect to LMS login page directly now! 
+As there is nothing interesting at the landing page! 
+Also, clicking the icon of this extension will take you to the LMS login page. 
+For the University of Melbourne.
 
 ***Motivation***
 
