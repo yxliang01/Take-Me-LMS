@@ -2,7 +2,7 @@
   "name": "Take Me LMS (Unimelb)",
   "short_name": "Take Me LMS (Unimelb)",
   "description": "Redirect me to LMS login page now! Nothing interesting here! For the University of Melbourne.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "manifest_version": 2,
   "default_locale": "en",
   "icons": {
@@ -21,5 +21,19 @@
       "run_at": "document_start",
       "all_frames": false
     }
-  ]
+  ],
+  "background": {
+    "scripts": [
+      "scripts/background.js"
+    ],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png",
+      "128": "images/icon-128.png"
+    },
+    "default_title": "Go to LMS!"
+  }
 }
