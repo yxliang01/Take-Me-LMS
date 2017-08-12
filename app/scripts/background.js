@@ -1,7 +1,7 @@
 chrome.browserAction.onClicked.addListener((tab)=> {
 
-  if(tab.url === 'chrome://newtab/') {
-    chrome.tabs.update(undefined, {
+  if(tab.url.indexOf('chrome://newtab/') !== -1) {
+    chrome.tabs.update(tab.id, {
       url: 'https://app.lms.unimelb.edu.au/',
       active: true,
     });

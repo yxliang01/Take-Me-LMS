@@ -1,7 +1,7 @@
 {
-  "name": "Take Me LMS (Unimelb)",
-  "short_name": "Take Me LMS (Unimelb)",
-  "description": "Redirect me to LMS login page now! Nothing interesting here! For the University of Melbourne.",
+  "name": "Take Me LMS! (Unimelb)",
+  "short_name": "Take Me LMS",
+  "description": "Redirect to LMS login page immediately with showing the useless landing page! Also, when you click the extension icon, you will be sending to your LMS login page. For the University of Melbourne.",
   "version": "1.1.0",
   "manifest_version": 2,
   "default_locale": "en",
@@ -35,5 +35,8 @@
       "128": "images/icon-128.png"
     },
     "default_title": "Go to LMS!"
-  }
+  },
+  "permissions": [
+    "activeTab"
+  ]
 }

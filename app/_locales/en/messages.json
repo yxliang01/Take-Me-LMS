@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Take Me LMS!",
+    "message": "Take Me LMS! (Unimelb)",
     "description": "The name of the application"
   },
   "appShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
   },
   "appDescription": {
-    "message": "Redirect to LMS login page immediately! Nothing really interesting there!",
+    "message": "Redirect to LMS login page immediately with showing the useless landing page! Also, when you click the extension icon, you will be sending to your LMS login page. For the University of Melbourne.",
     "description": "The description of the application"
   }
 }
